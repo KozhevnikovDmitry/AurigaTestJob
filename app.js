@@ -1,0 +1,1 @@
+console.log('This is auriga test job. Launch "npm test" to run tests')
